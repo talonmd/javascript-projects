@@ -6,3 +6,4 @@
 - [Joke Teller](https://talonmd.github.io/javascript-web-projects/joke-teller/)
 - [Light & Dark Mode](https://talonmd.github.io/javascript-web-projects/light-dark-mode/)
 - [Animated Template](https://talonmd.github.io/javascript-web-projects/animated-template/)
+- [Animated Navigation](https://talonmd.github.io/javascript-web-projects/animated-navigation)
